@@ -2,7 +2,19 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
     <url>
+      <loc>https://allenyip.github.io/about/</loc>
+      
+      <lastmod>2019-06-01T00:00:00+00:00</lastmod>
+      
+      
+      
+      
+    </url>
+  
+    <url>
       <loc>https://allenyip.github.io/</loc>
+      
+      <lastmod>2019-06-01T00:00:00+00:00</lastmod>
       
       
       
@@ -14,6 +26,32 @@
     <url>
       <loc>https://allenyip.github.io/categories/</loc>
       
+      <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+      
+      
+      
+      <priority>0</priority>
+      
+      
+    </url>
+  
+    <url>
+      <loc>https://allenyip.github.io/categories/movie/</loc>
+      
+      <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+      
+      
+      
+      <priority>0</priority>
+      
+      
+    </url>
+  
+    <url>
+      <loc>https://allenyip.github.io/posts/</loc>
+      
+      <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+      
       
       
       <priority>0</priority>
@@ -24,9 +62,139 @@
     <url>
       <loc>https://allenyip.github.io/tags/</loc>
       
+      <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+      
       
       
       <priority>0</priority>
+      
+      
+    </url>
+  
+    <url>
+      <loc>https://allenyip.github.io/tags/article/</loc>
+      
+      <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+      
+      
+      
+      <priority>0</priority>
+      
+      
+    </url>
+  
+    <url>
+      <loc>https://allenyip.github.io/tags/movie/</loc>
+      
+      <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+      
+      
+      
+      <priority>0</priority>
+      
+      
+    </url>
+  
+    <url>
+      <loc>https://allenyip.github.io/2019/green-book/</loc>
+      
+      <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+      
+      
+      
+      
+    </url>
+  
+    <url>
+      <loc>https://allenyip.github.io/2019/free-solo/</loc>
+      
+      <lastmod>2019-03-04T00:00:00+00:00</lastmod>
+      
+      
+      
+      
+    </url>
+  
+    <url>
+      <loc>https://allenyip.github.io/2019/black-mirror/</loc>
+      
+      <lastmod>2019-03-04T00:00:00+00:00</lastmod>
+      
+      
+      
+      
+    </url>
+  
+    <url>
+      <loc>https://allenyip.github.io/categories/book/</loc>
+      
+      <lastmod>2019-02-24T00:00:00+00:00</lastmod>
+      
+      
+      
+      <priority>0</priority>
+      
+      
+    </url>
+  
+    <url>
+      <loc>https://allenyip.github.io/tags/book/</loc>
+      
+      <lastmod>2019-02-24T00:00:00+00:00</lastmod>
+      
+      
+      
+      <priority>0</priority>
+      
+      
+    </url>
+  
+    <url>
+      <loc>https://allenyip.github.io/2019/wonderful-life/</loc>
+      
+      <lastmod>2019-02-24T00:00:00+00:00</lastmod>
+      
+      
+      
+      
+    </url>
+  
+    <url>
+      <loc>https://allenyip.github.io/2019/the-bucket-list/</loc>
+      
+      <lastmod>2019-01-26T00:00:00+00:00</lastmod>
+      
+      
+      
+      
+    </url>
+  
+    <url>
+      <loc>https://allenyip.github.io/2019/self-control/</loc>
+      
+      <lastmod>2019-01-26T00:00:00+00:00</lastmod>
+      
+      
+      
+      
+    </url>
+  
+    <url>
+      <loc>https://allenyip.github.io/2019/a-cool-fish/</loc>
+      
+      <lastmod>2019-01-16T00:00:00+00:00</lastmod>
+      
+      
+      
+      
+    </url>
+  
+    <url>
+      <loc>https://allenyip.github.io/2013/the-it-crowd/</loc>
+      
+      <lastmod>2013-10-04T00:00:00+00:00</lastmod>
+      
+      
       
       
     </url>

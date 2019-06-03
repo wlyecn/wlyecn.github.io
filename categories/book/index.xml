@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Book on Allen Yip</title>
+    <link>https://allenyip.github.io/categories/book/</link>
+    <description>Recent content in Book on Allen Yip</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 24 Feb 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://allenyip.github.io/categories/book/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>读《奇特的一生》</title>
+      <link>https://allenyip.github.io/2019/wonderful-life/</link>
+      <pubDate>Sun, 24 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://allenyip.github.io/2019/wonderful-life/</guid>
+      <description>下午健完身去书城翻看了这本书，之前也看过一些关于时间管理方面的书，这本书更像是一部传记而非之前的工具书。
+柳比歇夫这个名字也是跟着这几本书火起来的，近代伟人们总是能给人惊喜，居然有人可以每天记录这种无所事事的流水账，坚持了一辈子，言行合一开创了时间统计的先河。
+是否可以像记账软件一样，将时间类比为金钱，对每个事件花费的时间做个记录呢？身为一个程序员，有空我可以自己开发一个试试。
+我想，光有记录和统计是不够的，还需对数据进行分析，目前我仍未找到对自己统计时间如何进行分析处理的方法，后续再研究下。</description>
+    </item>
+    
+    <item>
+      <title>读《自控力》</title>
+      <link>https://allenyip.github.io/2019/self-control/</link>
+      <pubDate>Sat, 26 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://allenyip.github.io/2019/self-control/</guid>
+      <description>本书采用大量可实践方法，帮助读者提高自身的自控力，可能是因为本人自控力还不错，以及书中大量例子都是跟吃有关，让我这个不爱吃的人没法完全感动身受。
+在我看来，自控力确实是可锻炼的，以前我也不是这么自律的人，随着年龄增长，知道什么才是自己真正想要的，就开始努力提升自己，变得越来越自律（但欲望也越来越低）
+书中还有个观点挺赞同的，关于平衡和守恒，有点类似初中物理的能量守恒定律。比如某人在A上特别自律，在B上可能就显得懒散，区别在于A和B对他的重要程度以及喜爱程度，自控力的平衡也在于很好的协调好各类AB角，像我在健身期，每周日会安排一个间歇日适当放纵，不会使自己一直在一个紧绷的状态下导致自控力失衡。</description>
+    </item>
+    
+  </channel>
+</rss>
