@@ -26,19 +26,7 @@
     <url>
       <loc>https://allenyip.github.io/categories/</loc>
       
-      <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-      
-      
-      
-      <priority>0</priority>
-      
-      
-    </url>
-  
-    <url>
-      <loc>https://allenyip.github.io/categories/movie/</loc>
-      
-      <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+      <lastmod>2019-05-01T00:00:00+00:00</lastmod>
       
       
       
@@ -50,7 +38,7 @@
     <url>
       <loc>https://allenyip.github.io/posts/</loc>
       
-      <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+      <lastmod>2019-05-01T00:00:00+00:00</lastmod>
       
       
       
@@ -62,7 +50,19 @@
     <url>
       <loc>https://allenyip.github.io/tags/</loc>
       
-      <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+      <lastmod>2019-05-01T00:00:00+00:00</lastmod>
+      
+      
+      
+      <priority>0</priority>
+      
+      
+    </url>
+  
+    <url>
+      <loc>https://allenyip.github.io/categories/travel/</loc>
+      
+      <lastmod>2019-05-01T00:00:00+00:00</lastmod>
       
       
       
@@ -73,6 +73,40 @@
   
     <url>
       <loc>https://allenyip.github.io/tags/article/</loc>
+      
+      <lastmod>2019-05-01T00:00:00+00:00</lastmod>
+      
+      
+      
+      <priority>0</priority>
+      
+      
+    </url>
+  
+    <url>
+      <loc>https://allenyip.github.io/tags/travel/</loc>
+      
+      <lastmod>2019-05-01T00:00:00+00:00</lastmod>
+      
+      
+      
+      <priority>0</priority>
+      
+      
+    </url>
+  
+    <url>
+      <loc>https://allenyip.github.io/2019/chiengmai-travel/</loc>
+      
+      <lastmod>2019-05-01T00:00:00+00:00</lastmod>
+      
+      
+      
+      
+    </url>
+  
+    <url>
+      <loc>https://allenyip.github.io/categories/movie/</loc>
       
       <lastmod>2019-03-11T00:00:00+00:00</lastmod>
       
@@ -190,11 +224,67 @@
     </url>
   
     <url>
+      <loc>https://allenyip.github.io/2015/northwest-travel/</loc>
+      
+      <lastmod>2015-05-31T00:00:00+00:00</lastmod>
+      
+      
+      
+      
+    </url>
+  
+    <url>
       <loc>https://allenyip.github.io/2013/the-it-crowd/</loc>
       
       <lastmod>2013-10-04T00:00:00+00:00</lastmod>
       
       
+      
+      
+    </url>
+  
+    <url>
+      <loc>https://allenyip.github.io/categories/development/</loc>
+      
+      <lastmod>2013-03-15T00:00:00+00:00</lastmod>
+      
+      
+      
+      <priority>0</priority>
+      
+      
+    </url>
+  
+    <url>
+      <loc>https://allenyip.github.io/2013/java-basic/</loc>
+      
+      <lastmod>2013-03-15T00:00:00+00:00</lastmod>
+      
+      
+      
+      
+    </url>
+  
+    <url>
+      <loc>https://allenyip.github.io/tags/development/</loc>
+      
+      <lastmod>2013-03-15T00:00:00+00:00</lastmod>
+      
+      
+      
+      <priority>0</priority>
+      
+      
+    </url>
+  
+    <url>
+      <loc>https://allenyip.github.io/tags/java/</loc>
+      
+      <lastmod>2013-03-15T00:00:00+00:00</lastmod>
+      
+      
+      
+      <priority>0</priority>
       
       
     </url>

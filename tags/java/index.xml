@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>java on Allen Yip</title>
+    <link>https://allenyip.github.io/tags/java/</link>
+    <description>Recent content in java on Allen Yip</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 15 Mar 2013 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://allenyip.github.io/tags/java/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Java基础</title>
+      <link>https://allenyip.github.io/2013/java-basic/</link>
+      <pubDate>Fri, 15 Mar 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://allenyip.github.io/2013/java-basic/</guid>
+      <description>基本数据结构 操作符 控制执行流程 初始化与清理 访问权限控制 复用类 接口 内部类 容器类 异常 字符串 类型信息 泛型 枚举 数组 注解 Java I/0 并发  基本数据类型 1，Java里的数据类型分为基本类型和引用类型。基本类型可直接创建赋值并存储于栈中，引用类型或通过new关键字创建并存储于堆中，或直接存储于String常量池中。
+ Java有六个地方可以存储数据，按照存取速度排列：
+ 寄存器Register：位于处理器内部，由编译器分配，无法控制
+ 栈Stack：存放基本类型的数据和对象/数组的引用，但对象本身不存在栈中，而存在堆中（new出来的对象）或者字符串常量池中
+ 堆Heap：堆比栈更加灵活，无需知道分配了多少空间，也无需知道对象存活多长时间。
+ 静态存储：存放程序运行时一直存在的数据
+ 常量存储：直接存放在程序代码内部，存放字符串常量和基本类型常量（public static final）
+ 非RAM存储：如硬盘等永久存储空间，完全存活于程序之外，不受程序的任何控制。
+  注：对于栈和常量池中的对象可以共享，对于堆中的对象不可以共享。栈中的数据大小和生命周期是可以确定的，当没有引用指向数据时，这个数据就会消失。堆中的对象的由垃圾回收器负责回收，因此大小和生命周期不需要确定，具有很大的灵活性。
+注2：对于字符串：其对象的引用都是存储在栈中的，如果是编译期已经创建好(直接用双引号定义的)的就存储在常量池中，如果是运行期（new出来的）才能确定的就存储在堆中。对于equals相等的字符串，在常量池中永远只有一份，在堆中有多份。
+ String s = new String(“xyz”);产生几个对象？如果常量池中有xyz则只在堆中产生一个拷贝对象（一个）；如果常量池中没有xyz，则在常量池中创建xyz，然后在堆中创建拷贝（两个）。
+2，由于JVM是独立于底层的机器，基本数据类型大小是固定的，因此Java也不需要sizeof操作。基本数据类型及其大小如下所示：
+ boolean，-，大小未明确定义，仅定义为字面值true/false，默认值false。
+ char，16位，默认值\u0000(null)。
+ byte，8位，默认值(byte)0。
+ short，16位，默认值(short)0。所有数值类型都有正负号！
+ int，32位，默认值0。
+ long，64位，默认值0L。
+ float，32位，默认值0.0f。
+ double，64位，默认值0.0d。
+ void，-
+  基本类型在作为类的成员时会被赋予默认值，即使未进行初始化也能运行；而作为局部变量，如位于方法中而不是类中，其默认值可能是任意的，并且在运行时会报错。（类变量同理，默认赋予null值）</description>
+    </item>
+    
+  </channel>
+</rss>
